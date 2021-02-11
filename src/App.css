@@ -21,9 +21,12 @@ ul {
   margin: 20px auto;
   width: 325px;
   position: relative;
+  
 }
 ul span {
   position: relative;
+  padding: 10px;
+
 }
 
 .app {
@@ -44,6 +47,7 @@ button{
   height: 30px;
   width: 90px;
   cursor: pointer;
+  
   
 }
 
