@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mssaad85/todo-app-using-class-component/static/css/main.b50a0e23.chunk.css",
+    "main.js": "/mssaad85/todo-app-using-class-component/static/js/main.7ad0f5de.chunk.js",
+    "main.js.map": "/mssaad85/todo-app-using-class-component/static/js/main.7ad0f5de.chunk.js.map",
+    "runtime-main.js": "/mssaad85/todo-app-using-class-component/static/js/runtime-main.c061904c.js",
+    "runtime-main.js.map": "/mssaad85/todo-app-using-class-component/static/js/runtime-main.c061904c.js.map",
+    "static/js/2.b8dac65e.chunk.js": "/mssaad85/todo-app-using-class-component/static/js/2.b8dac65e.chunk.js",
+    "static/js/2.b8dac65e.chunk.js.map": "/mssaad85/todo-app-using-class-component/static/js/2.b8dac65e.chunk.js.map",
+    "static/js/3.09baf096.chunk.js": "/mssaad85/todo-app-using-class-component/static/js/3.09baf096.chunk.js",
+    "static/js/3.09baf096.chunk.js.map": "/mssaad85/todo-app-using-class-component/static/js/3.09baf096.chunk.js.map",
+    "index.html": "/mssaad85/todo-app-using-class-component/index.html",
+    "static/css/main.b50a0e23.chunk.css.map": "/mssaad85/todo-app-using-class-component/static/css/main.b50a0e23.chunk.css.map",
+    "static/js/2.b8dac65e.chunk.js.LICENSE.txt": "/mssaad85/todo-app-using-class-component/static/js/2.b8dac65e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c061904c.js",
+    "static/js/2.b8dac65e.chunk.js",
+    "static/css/main.b50a0e23.chunk.css",
+    "static/js/main.7ad0f5de.chunk.js"
+  ]
+}
