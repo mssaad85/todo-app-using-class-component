@@ -2,7 +2,7 @@
   "name": "todo-using-classes",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/mssaad85/todo-app-using-class-component",
+  "homepage":"https://mssaad85.github.io/todo-app-using-class-component",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.9",
